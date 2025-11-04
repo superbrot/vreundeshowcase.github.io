@@ -3,12 +3,8 @@ name: VREUNDE
 title: VREUNDE | Showcase
 description: Digital Showcase of prototypes
 tags:
-  - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
-show_hero: true
+  - science
+show_hero: false
 menu:
   - title: Home
     url: /
@@ -16,8 +12,7 @@ menu:
     url: /about
   - title: Contact
     url: /contact
-  - title: Feed
-    url: /feed.xml
+
 email: youremail@test.com
 # See: https://disqus.com/
 disqus_username: disqus_username
@@ -26,28 +21,18 @@ disqus_username: disqus_username
 formspree_form_id: formspree_form_id
 
 
-# Social Media Settings
-# Remove the item if you don't need it
-github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
-
-
 # Posts Settings
 show_time_bar: true
 show_modal_on_exit: false
 show_modal_on_finish_post: true
-two_columns_layout: true
+two_columns_layout: false
 
 
 # Advanced Settings
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
-language: "en"
+language: "de"
 categories_folder: category
 sent_message_url: "/contact/message-sent/"
 

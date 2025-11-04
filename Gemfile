@@ -9,3 +9,6 @@ gem "jekyll-paginate"
 gem "jekyll-paginate-content"
 gem "json"
 gem 'base64'
+gem 'csv'
+gem 'bigdecimal'
+gem 'logger'
